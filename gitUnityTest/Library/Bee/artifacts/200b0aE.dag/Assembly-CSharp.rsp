@@ -348,9 +348,15 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Fireball.cs"
 "Assets/FPSInput.cs"
 "Assets/MouseLook.cs"
+"Assets/PlayerCharacter.cs"
+"Assets/RayShooter.cs"
+"Assets/ReactiveTarget.cs"
+"Assets/SceneController.cs"
 "Assets/Spin.cs"
+"Assets/WanderingAI.cs"
 -langversion:9.0
 
 /deterministic
